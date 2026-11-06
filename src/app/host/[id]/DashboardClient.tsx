@@ -175,5 +175,6 @@ export default function DashboardClient({ params }: { params: Promise<{ id: stri
         </p>
       </div>
     </div>
+    
   );
 }
